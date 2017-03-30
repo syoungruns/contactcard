@@ -1,0 +1,33 @@
+.bigwrapper{
+  height: 950px;
+  width: 1500px;
+  /*outline: 3px dotted magenta;*/
+}
+
+form{
+  display: inline-block;
+  width: 900px;
+}
+
+#description{
+  height: 150px;
+  width: 400px;
+}
+
+.column{
+  /*outline: 3px dotted hotpink;*/
+  width: 400px;
+  display: inline-block;
+}
+
+.cards{
+  outline: 3px solid black;
+  padding: 30px;
+  height: 150px;
+  width: 200px;
+  text-align: center;
+}
+
+.hidden{
+  display: none;
+}
